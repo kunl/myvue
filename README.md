@@ -1,4 +1,7 @@
-# aaa
+# vue demo
+
+ 项目基于 vue2
+ 依赖 vue-router, vue-cli
 
 > A Vue.js project
 
