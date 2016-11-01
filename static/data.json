@@ -1,0 +1,6 @@
+{
+    "list": [
+        {"name": "测试1", "img": "./static/logo.png"},
+        {"name": "测试2", "img": "./static/logo.png"}
+    ]
+}
